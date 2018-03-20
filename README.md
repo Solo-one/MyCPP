@@ -1,2 +1,4 @@
-# Study-C-C-
-Studying C/C++ program
+# MtCPP
+Studying C/C++ program  《C++ Primer》
+
+
