@@ -21,5 +21,18 @@ int main() {
 	std::cout << rss << std::endl;
 	std::cout << *rss << std::endl;
 
+	// 引用的理解
+	double dval = 3.14;
+	double & ri = dval;
+	// double ri = dval;
+	std::cout << &dval << std::endl;
+	std::cout << &ri << std::endl;
+
+	double dvar = 3.1415;
+	const int &dri = dvar; // int temp = dvar;
+	std::cout << &dvar << std::endl;
+	std::cout << dri << std::endl;
+	std::cout << &dri << std::endl;
+
 	return 0;
 }
