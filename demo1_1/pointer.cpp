@@ -25,5 +25,17 @@ int main() {
 	double *pd = &obj;
 	void* pv = &obj;
 	pv = pd;
+
+	int num = 1024;
+	int *pointer = &num;
+	cout << pointer << endl;
+	int **ppi = &pointer;
+	cout << *ppi << endl;
+	cout << ppi << endl;
+	int *pi2 = *ppi;
+	cout << pi2 << endl;
+	cout << *pi2 << endl;
+	cout << **ppi << endl;
+
 	return 0;
 }
