@@ -1,6 +1,6 @@
 # MyCPP
 Studying C/C++ program  《C++ Primer》
 
-# List
+# 数据结构
 
 # Demo
