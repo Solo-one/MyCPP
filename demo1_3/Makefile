@@ -13,4 +13,4 @@ fun2.o: src/fun2.cpp
 	g++ -c src/fun2.cpp -o fun2.o
 
 clean:
-	rm -f *.o
+	-rm -f *.o
