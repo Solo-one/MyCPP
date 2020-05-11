@@ -1,6 +1,9 @@
 # MyCPP
 Studying C/C++ program
 
+# 迁移
+https://github.com/Solo-one/Struggle
+
 # 数据结构
 
 # Demo1 
